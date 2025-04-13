@@ -1,0 +1,33 @@
+Vo kodot izbrav da implementiram kod za funkciite: sortByName, filterByCategory i countTasksPerCategory
+
+13) Upotrebiv "git fetch origin" za da kreiram tracker granki za 3te za soodvetnite problem imenuvani soodvetno: SortByName, FilterByCategory i CountTasksByCategory.
+
+14-19)  -git checkout SortByName - Se prefrliv na grankata SortByName i go implementirav 	dadeniot kod.
+	-git get status - Proveriv dali e modified kodot .
+	-git add . - Go dodadov vo staged
+	-git commit -m -commit na branchot
+	-git push origin SortByName na odaleceniot repositorium
+	-Vo GitHub repozitoriumot napraviv "Compare and pull request" i kliknav na "Create 	pull request"
+
+	Procesov go povtoriv za site granki.
+
+20. Napraviv Merge pull request na GitHub za grankite SortByName i FilterByCategory.
+
+21. Vo projects, kako sto e spomnato vo vezbata, soodvetnite issues povrzani so grankata avtomatski SE prefrlija vo fazata Done vo Kanban tablata.
+
+22) -git checkout master - Se prefrliv na master grankata.
+    -git merge CountTasksByCategory - ja spoiv grankata	CountTasksByCategory so master.
+    -git push origin master - Tuka mi javi greska bidejki imav dopolnitelen file vo lokalniot repozitorium koj go nemase vo oddaleceniot repo. Zatoa go napraviv slednoto.
+    -git status - za da proveram koj e toj file.
+    -git add . - za da go stavam vo "staged"
+    -git status - da proveram povtorno
+    -git commit -m - go commitnav 
+    -git pull origin master --rebase - Gi povlekuvam komitite od GitHub
+    -git merge CountTasksByCategory - Povtorno
+    -git push origin master - Sinhroniziranje na lokalnata master granka so oddaleceneniot repo.
+
+24) Pull reuestot i soodvetniot issue E zatvoren.
+
+25) Dodadov logs.txt i 236079.txt datoteki.Napraviv git add . i git commit -m
+
+26) Sinhronizirav so git push origin master.

@@ -1,0 +1,9 @@
+cb23b5e (HEAD -> master, origin/master, origin/HEAD) Merge branch 'CountTasksByCategory'
+3a7becd Solved CountTaskByCategory
+ee8b185 Merge pull request #11 from FilipAvramovski/FilterByCategory
+5d79557 Merge pull request #10 from FilipAvramovski/SortByName
+6d4b713 (origin/CountTasksByCategory, CountTasksByCategory) Solved CountTaskByCategory
+b47c0ef (origin/FilterByCategory, FilterByCategory) Solved FilterByCategory
+58c2b96 (origin/SortByName, SortByName) Solved SortByName
+2c66a7e Add starter code
+b856fd8 Initial commit
